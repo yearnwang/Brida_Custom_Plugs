@@ -1,6 +1,9 @@
 # Brida_Custom_Plugs
 This is a Examle What Brida Custom Plugs for BurpSuit
 
+# Brida-0.3.zip
+V0.3版本的源码
+
 # Brida_v0.3.jar
 V0.3版本的BurpSuit插件
 
